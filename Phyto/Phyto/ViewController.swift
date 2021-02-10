@@ -14,6 +14,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func Newbutton(_ sender: Any) {
+    }
+     If no newgame then create
+    If game made display selection screen
+    
+    
+    @IBAction func Loadgame(_ sender: Any) {
+        If no game display "no games availible"
+    }
 }
 
